@@ -1,0 +1,9 @@
+<Ui>
+    <Script file="CatScan.lua"/>
+    <Frame name="CatScanFrame">
+        <Scripts>
+            <OnLoad>CS_OnLoad();</OnLoad>
+            <OnEvent>CS_EventHandler(self, event, ...);</OnEvent>
+        </Scripts>
+    </Frame>
+</Ui>

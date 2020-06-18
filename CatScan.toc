@@ -1,0 +1,6 @@
+## Interface: 11304
+## Title: CatScan
+## Author: TorrentKatten
+## Version: 1.0-fish
+
+CatScan.xml
